@@ -1,0 +1,196 @@
+body{
+	font-family: 'Arial Narrow' !important;
+}
+
+header{
+	    margin-bottom: -31px;
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('ArialNarrow.eot');
+    src: url('ArialNarrow.eot?#iefix') format('embedded-opentype'),
+        url('ArialNarrow.woff2') format('woff2'),
+        url('ArialNarrow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+input[name="chave"].form-control::-webkit-input-placeholder {
+  color: #FFF;
+}
+
+
+.topo{
+
+ 
+}
+
+#logo-img{
+
+}
+
+.borda-radius-20 input{
+
+	border-radius: 20px;
+	background-color:#696969 !important;
+	padding: 10px;
+	color: #fff;
+	border: 0;
+	margin-top: 20px;
+	    border-bottom:  4px solid#000;
+}
+
+	
+ 
+
+.redes-soci{
+	text-align: center;
+		margin-top: 20px;
+}
+
+.redes-soci img{
+	margin-left: 40px;
+}
+
+.menu{
+	background-color: #696969 ;
+	border-bottom: 8px solid #000;
+}
+
+.menu-letra-inf{
+	
+	display: flex;
+    flex-direction: row;
+	 
+	justify-content: center;
+}
+
+.menu-letra{	 
+	 
+	justify-content: center;
+	margin: 2px;
+	padding: 10px;
+}
+.menu-letra a{
+	text-decoration: none;
+	color: #fff;
+	  transition: 0.5s;
+	    font-size: 16px;
+	    padding: 10px;
+
+}
+
+.menu-letra a:hover{
+	color: #696969;
+}
+.menu-letra:hover{
+	transition: 0.5s;
+	background-color: #fff;
+	color:#696969;
+	
+}
+
+
+
+
+.menu-rodape{
+	text-align: center;
+	padding: 10px;
+}
+
+.meun-rodape-info a{
+	color: #999;
+	text-decoration: none;
+	    font-size: 18px;
+}
+.meun-rodape-info{
+		color: #999;
+		    font-size: 18px;
+}
+
+.menu-img img{
+	height: 70px;
+	padding: 7px;
+}
+
+
+.rodape-credits{
+	background-color: #333;
+	color: #999;
+	line-height: 50px;
+}
+
+.footer{
+	background-color:  #669966 ; 
+    background-image: url(http://tbdv.tk/assets/images/g.jpg);
+    background-repeat: repeat;
+
+
+}
+
+ 
+
+
+.rodape-credits img{
+	height: 35px;
+	z-index: 0
+}
+
+.navbar-fixed-top{
+    top: 0;
+	position: fixed;
+	z-index: 1;
+}
+
+.paddin-35{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.menu-mobile{
+	padding: 10px;
+	display: none;
+}
+.menu-mobile div{
+	padding: 5px;
+}
+.menu-mobile div:hover{
+	background-color: #000
+}
+.menu-mobile a{
+	color: #999;
+
+
+}
+    
+
+
+
+
+@media only screen and (max-width:700px){
+
+
+	#botao-menu{
+	display: none;
+}
+
+	.center-inf{
+		line-height: normal;
+	}
+
+
+
+
+
+
+
+
+.img-banner-meio-info img {
+    margin-top: 27px;
+    padding: 6px;
+    padding-bottom: 48px;
+}
+
+	
+} 

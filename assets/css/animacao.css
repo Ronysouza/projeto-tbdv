@@ -1,0 +1,69 @@
+ .icone-whats{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+   
+ }
+
+@keyframes img{
+0%{  top:0px;left: 0px;}
+25%{ top: 0px;left: 0px;}
+50%{ top:2px;left: 0px;}
+75%{ top:2px;left: 0px;}
+100%{ top: 0px;left: 0px;}
+
+  
+
+
+}
+
+.img{
+       
+    
+    position: absolute;
+    animation-name:img;
+    animation-duration: 1s;
+
+    animation-iteration-count: infinite;
+    
+
+}
+
+
+.divWhatsapp {
+   width: 60px;
+    bottom: 93px;
+     
+    position: fixed;
+    z-index: 10;
+    left: 29px;
+    
+}
+
+
+
+
+
+/*  tags da animacao
+
+<div class="divWhatsapp">
+
+
+<div class="img">
+		<a title="Fale Conosco via whatsapp" href= "#">
+			    		<img height="60" class="img-fluid"   src="assets/images/ico-whatsapp2.png">
+			    	
+
+			    	</a>
+</div>
+	
+</div>
+
+  
+  tag do jivo chat
+
+  <script src="//code.jivosite.com/widget/suTYltmBxV" async></script>
+
+
+
+*/

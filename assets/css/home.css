@@ -1,0 +1,178 @@
+
+ .home-info-banner{
+
+ 	margin-top: 40px;
+
+
+ }
+
+ 
+ .home-info-banner h1{
+ 	font-weight: 200;
+ 	padding: 10px;
+ 	color: #696969;
+ }
+
+ .home-info-banner h3{
+ 	color: #999;
+ 	    color: #999;
+    padding: 50px;
+        font-size: 20px;
+ }
+
+ .info-banner-image{
+ 	 
+  text-align: center;
+ 	 
+ }
+
+ .info-row{
+max-width: 740px;
+
+ 	width: 100%;
+ 	margin: auto;
+ 	padding: 20px;
+ }
+
+  .info-efeito{
+  		transition: 0.5s;
+  		font-size: 18px;
+  }
+
+ .info-efeito:hover{
+ 	transition: 0.5s;
+ 	 transform: scale(1.05);
+ 	box-shadow: -4px 10px 19px 6px blue;
+ 	 color:  #696969;
+ }
+
+
+.center-{
+     
+line-height: 200px;
+ }
+
+ .center-inf{
+
+ }
+
+
+ .info-carrosroussel{
+
+ background-image: url(http://tbdv.tk/images/banner-prat.jpg);
+    background-repeat: repeat;
+
+
+
+ }
+
+ .img-tamanho img{
+ 	height: 200px;
+ 	margin-top: 10px;
+ 	margin-bottom: 10px;
+
+ }
+
+ .img-tamanho .col-lg-4 img{
+ 
+
+  transition: 0.7s;
+
+
+}
+
+.img-tamanho h4{
+
+color: #999;
+ font-family: 'Arial Narrow' !important;
+
+}
+
+
+.img-tamanho .col-lg-4 img:hover{
+	transition: 0.7s;
+	transform: scale(1.05);
+	box-shadow: -4px 10px 19px 6px blue;
+}
+
+.banner-clud-info {
+
+	 
+transition: 0.7s;
+	 
+}
+
+ 
+.banner-clud-info:hover{
+
+	transform: scale(1.05);
+transition: 0.7s;
+	 
+}
+
+.banner-clud{
+	padding: 20px;
+}
+
+
+.img-banner-meio{
+
+padding: 50px;
+   background-image: url(http://tbdv.tk/assets/images/h.jpg);
+    background-repeat: repeat;
+    text-align: center;
+    color: #fff;
+    background-size: cover;
+    
+
+
+
+}
+
+.img-banner-meio h2{
+	padding: 10px;
+	font-size: 34px;
+}
+
+.img-banner-meio p{
+	padding: 10px;
+	font-size: 19px
+}
+
+.img-banner-meio-info{
+	background-color:  #696969;
+	color: #fff;
+	font-size: 35px;
+	font-weight: 700;
+	border-bottom: 10px solid #000;
+}
+
+.img-banner-meio-info img{
+        margin-top: -56px;
+    /* padding: 6px; */
+    padding-bottom: 48px;
+}
+
+}
+
+.banner_video{
+	margin-top: 20px;
+
+}
+.div_port_le{
+
+	padding: 5px;
+	border:1px solid #ddd;
+	border-bottom:2px solid #000;
+	border-radius: 2px;
+	list-style: none;
+	    font-size: 23px;
+    color: #999;
+	
+	
+}
+
+
+#botao-menu{
+	display: none;
+}
